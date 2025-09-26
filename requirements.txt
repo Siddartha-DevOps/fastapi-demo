@@ -1,5 +1,6 @@
 annotated-types==0.7.0
 anyio==4.11.0
+autopep8==2.3.2
 click==8.3.0
 colorama==0.4.6
 fastapi==0.117.1
@@ -9,6 +10,7 @@ idna==3.10
 joblib==1.5.2
 numpy==2.3.3
 pandas==2.3.2
+pycodestyle==2.14.0
 pydantic==2.11.9
 pydantic_core==2.33.2
 python-dateutil==2.9.0.post0
